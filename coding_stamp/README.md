@@ -1,2 +1,16 @@
-# fundamental_python
-파이썬 코딩 도장 - 기초 다지자 ! !
+# 파이썬 기초 다지기
+🔗 [코딩 도장](https://dojang.io/course/view.php?id=7)
+#### ✔️ 레포지토리 합치기 진행
+- 16(for)
+- 17(while)
+- 18(break, continue)
+- 22(list, tuple)
+- 23(2D list)
+- 25(string)
+- 29(function)
+- 30(unpacking)
+- 31(recursive call)
+- 32(lambda)
+- 34(class)
+- 35(class, instance, instance/static/class method)
+- 36(inheritance)
