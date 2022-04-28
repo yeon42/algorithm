@@ -33,6 +33,15 @@ class MyStack(object):
         return len(self.queue) == 0
         
 
+'''
+- 시간복잡도: O(n)
+: push()의 append를 해주는 부분이 시간 복잡도가 O(1)이지만
+총 n개의 요소가 있을 때 n번 추가해주기 때문에 O(n)이다.
+
+- 공간복잡도: O(1)
+: 공간은 현재 보고 있는 스택 1개이므로
+'''
+
 
 # Your MyStack object will be instantiated and called as such:
 # obj = MyStack()
