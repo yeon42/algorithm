@@ -10,3 +10,6 @@ for i in range(len(array)):
     array[i], array[min_index] = array[min_index], array[i] # 스와프
 
 print(array)
+
+
+# 선택 정렬 시간 복잡도 O((N^2 + N) / 2)
